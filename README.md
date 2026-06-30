@@ -1,6 +1,5 @@
 # 🪐 Personal Portfolio Website
 
-<!-- This creates a huge, unmissable call-to-action button for viewers -->
 <table>
   <tr>
     <td>
@@ -16,16 +15,14 @@ Welcome to my official portfolio repository! I am a software engineering and com
 
 ## 🛠️ Tech Stack & Features
 * **Frontend Core:** HTML5, CSS3, JavaScript (ES6)
-* **Responsive Layout:** Engineered with CSS Flexbox and Grid to ensure a seamless experience across mobile, tablet, and desktop screens.
-* **Modern Aesthetics:** Clean typographic hierarchy, optimized contrast, sleek animations, and custom styling.
+* **Modern Layouts:** Engineered using **CSS Flexbox** for sleek navigation layouts and **CSS Grid** for a clean, structural projects showcase.
+* **Dynamic Interactions:** Implemented custom JavaScript to handle seamless smooth-scrolling mechanics across layout sections and interactive, client-side form validation.
 
 ## 📁 Repository Blueprint
-To keep this project production-ready and professional, the files are organized cleanly:
-* `index.html` — The main entry point and structural foundation of the website.
-* `/css` — Dedicated folder housing external stylesheets for clean design management.
-* `/js` — Interactive scripts handling dynamic elements and DOM manipulation.
-* `/assets` — Optimized media, images, and visual assets for fast loading speeds.
+To keep this project production-ready and professional, the files are organized cleanly at the root level:
+* `index.html` — The structural foundation, content setup, and core markup layout of the website.
+* `profile.css` — The master stylesheet handling custom UI aesthetics, typography, grids, and responsive design behaviors.
+* `profile.js` — The behavioral layer managing custom smooth scroll animations and contact form submission actions.
 
 ---
 🚀 *Designed and maintained by [Jay Parab](https://github.com/jayparab26).*
-
